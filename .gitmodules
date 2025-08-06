@@ -1,0 +1,12 @@
+[submodule "2 Generative AI Fundamentals/2 Deep Learning Fundamentals"]
+	path = 2 Generative AI Fundamentals/2 Deep Learning Fundamentals
+	url = https://github.com/udacity/cd13303-deep-learning-fundamentals
+[submodule "2 Generative AI Fundamentals/4 Adapting Foundation Models"]
+	path = 2 Generative AI Fundamentals/4 Adapting Foundation Models
+	url = https://github.com/udacity/cd13303-domain-adaptation
+[submodule "4 Computer Vision and Gen AI/Computer-Vision-and-Generative-AI"]
+	path = 4 Computer Vision and Gen AI/Computer-Vision-and-Generative-AI
+	url = https://github.com/udacity/Computer-Vision-and-Generative-AI.git
+[submodule "4 Computer Vision and Gen AI/6 Project AI Photo Editing with Inpainting"]
+	path = 4 Computer Vision and Gen AI/6 Project AI Photo Editing with Inpainting
+	url = https://github.com/udacity/Computer-Vision-and-Generative-AI-Project.git

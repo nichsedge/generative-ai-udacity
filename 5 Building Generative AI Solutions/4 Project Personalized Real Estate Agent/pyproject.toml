@@ -1,0 +1,14 @@
+[project]
+name = "4-project-personalized-real-estate-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "langchain",
+    "openai",
+    "chromadb",
+    "langchain_community",
+    "langchain-openai",
+    "python-dotenv",
+]

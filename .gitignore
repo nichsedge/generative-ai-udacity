@@ -1,0 +1,8 @@
+*.lock
+*.csv
+*.parquet
+*.arrow
+*.zip
+*.sqlite3
+*.bin
+*.txt
